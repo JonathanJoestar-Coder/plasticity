@@ -101,7 +101,7 @@
         "electron-squirrel-startup": "^1.0.0",
         "electron-window-state": "^5.0.3",
         "event-kit": "^2.5.3",
-        "json5": "^2.2.0",
+        "json5": "^2.2.3",
         "path-browserify": "^1.0.1",
         "preact": "^10.5.13",
         "signals": "^1.0.0",
