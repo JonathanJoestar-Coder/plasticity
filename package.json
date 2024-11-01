@@ -103,7 +103,7 @@
         "event-kit": "^2.5.3",
         "json5": "^2.2.0",
         "path-browserify": "^1.0.1",
-        "preact": "^10.5.13",
+        "preact": "^10.24.2",
         "signals": "^1.0.0",
         "stats.js": "^0.17.0",
         "three": "^0.140.0",
