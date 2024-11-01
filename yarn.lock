@@ -11719,7 +11719,7 @@ __metadata:
     path-browserify: ^1.0.1
     postcss: ^8.4.5
     postcss-loader: ^6.2.1
-    preact: ^10.5.13
+    preact: ^10.24.2
     signals: ^1.0.0
     stats.js: ^0.17.0
     style-loader: ^1.2.1
@@ -11898,10 +11898,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"preact@npm:^10.5.13":
-  version: 10.6.5
-  resolution: "preact@npm:10.6.5"
-  checksum: 020718a187e12d73cfb036dabb29fb64914c166633f255867ebcf6afca43d61a984d02375f90fe16fa93be662256a05c273e808cf60b08562c4440d2744d9b66
+"preact@npm:^10.24.2":
+  version: 10.24.3
+  resolution: "preact@npm:10.24.3"
+  checksum: 372f601576f52d6417a750a8732cd83c4fc133b0b136f82ea69f013092266ad0213c160b71ae421a0fc7ab04caacb651c29dbf515e3aec26d82b0a8675e8786e
   languageName: node
   linkType: hard
 
