@@ -11726,7 +11726,7 @@ __metadata:
     svg-inline-loader: ^0.8.2
     tailwindcss: ^3.0.13
     terser-webpack-plugin: ^5.2.4
-    three: ^0.140.0
+    three: ^0.169.0
     ts-jest: ^27.0.0-next.10
     ts-loader: ^8.0.2
     ts-node: ^9.1.1
@@ -13945,10 +13945,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"three@npm:^0.140.0":
-  version: 0.140.0
-  resolution: "three@npm:0.140.0"
-  checksum: f7d16e643046c831741972d3caddf1f0b64ed42d454e13708e8d6cc329d700fa0544324942fc361d1bffb924a144750fce3662288208c2b7ed640e3a732a6d2a
+"three@npm:^0.169.0":
+  version: 0.169.0
+  resolution: "three@npm:0.169.0"
+  checksum: 714b68911a26523858edf10e6ed33e41901edaba734b6acd3aa3542746e45570295fa8750723b06bcb9d223013dba920e946e02a018ee136c86da927c04441c3
   languageName: node
   linkType: hard
 
